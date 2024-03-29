@@ -1,7 +1,5 @@
 # Pomodoro Timer
 
-![Pomodoro Timer](/Day_28/tomato.png)
-
 A simple Pomodoro timer application with task management functionality built using Python and Tkinter.
 
 ## Features
